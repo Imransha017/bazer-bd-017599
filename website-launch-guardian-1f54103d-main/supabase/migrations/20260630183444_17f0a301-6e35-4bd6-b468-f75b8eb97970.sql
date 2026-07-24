@@ -1,0 +1,1 @@
+REVOKE EXECUTE ON FUNCTION public.prevent_vendor_status_escalation() FROM PUBLIC, anon, authenticated;

@@ -1,0 +1,8 @@
+{
+  "buildCommand": "npm run build",
+  "outputDirectory": ".vercel/output/static",
+  "installCommand": "npm install",
+  "framework": null,
+  "devCommand": "npm run dev",
+  "nodeVersion": "22.x"
+}

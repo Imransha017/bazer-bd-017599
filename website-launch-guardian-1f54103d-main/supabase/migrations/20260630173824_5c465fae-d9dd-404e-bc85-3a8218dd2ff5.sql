@@ -1,0 +1,10 @@
+DROP TRIGGER IF EXISTS addresses_updated ON public.addresses;
+DROP TRIGGER IF EXISTS banners_updated_at ON public.banners;
+DROP TRIGGER IF EXISTS categories_updated ON public.categories;
+DROP TRIGGER IF EXISTS coupons_updated ON public.coupons;
+DROP TRIGGER IF EXISTS orders_updated ON public.orders;
+DROP TRIGGER IF EXISTS products_updated ON public.products;
+DROP TRIGGER IF EXISTS profiles_updated ON public.profiles;
+DROP TRIGGER IF EXISTS reviews_updated ON public.reviews;
+DROP TRIGGER IF EXISTS vendor_payouts_updated_at ON public.vendor_payouts;
+DROP TRIGGER IF EXISTS vendors_updated_at ON public.vendors;
